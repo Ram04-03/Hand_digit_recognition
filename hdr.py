@@ -5,7 +5,7 @@ import cv2
 import numpy as np
 model=keras.models.load_model("Trained_model_cnn.h5")
 st.title("Digit Recognizer")
-size=256
+size=192
 canvas_result=st_canvas(fill_color="#ffffff",stroke_width=10,stroke_color='#ffffff',background_color="#000000",height=150,width=150,drawing_mode='freedraw',key="canvas")
 if canvas_result.image_data is not None:
     img=cv2.resize(canvas_result.image_data.astype('uint8'),(28,28))
