@@ -32,9 +32,9 @@ This project trains a Convolutional neural network model using Tensorflow to rec
    
 ### Results
 
-* Training and evaluation results will be stored in the `results` folder. You can find accuracy, loss, and other metrics there.
+* Training and evaluation results will be stored
 * A web application for real-time digit recognition has been built using streamlit
 * The link for the webapp created https://digit-recognition.streamlit.app/
 
-I hope this README helps you get started with your MNIST handdigit recognition project. Feel free to reach out if you have any questions!
+
 
