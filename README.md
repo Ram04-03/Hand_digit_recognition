@@ -1,4 +1,4 @@
-## Handwritten Digit Recognition with TensorFlow and MNIST
+## Handwritten Digit Recognition with TensorFlow 
 
 This project trains a Convolutional neural network model using Tensorflow to recognize handwritten digits(0-9) from the MNIST dataset using TensorFlow. 
 
